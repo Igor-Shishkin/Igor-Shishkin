@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welkom 👋
+
+My repositoryes:
+1. Knowledge-checker: this app downloads a .json file containing tests from a given website and offers the user two types of training.
+2. School database: this app allows the user to work with a student database.
+3. CourseSDA: this is my work with the academy and at the same time my big cheat sheet.
+4. PROSTO_JAVA: these are materials for my YouTube channel.
+
 
 <!--
 **Igor-Shishkin/Igor-Shishkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
