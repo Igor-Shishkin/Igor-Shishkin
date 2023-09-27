@@ -1,4 +1,4 @@
-### Welkom 👋
+### Welkome 👋
 
 My repositoryes:
 1. Knowledge-checker: this app downloads a .json file containing tests from a given website and offers the user two types of training.
